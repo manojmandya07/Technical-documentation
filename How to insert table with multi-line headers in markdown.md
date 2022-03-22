@@ -1,3 +1,5 @@
+# How to insert table with multi-line headers in markdown
+Please see the example html code below:
 <table>
   <thead>
     <tr>
