@@ -17,28 +17,31 @@ The Cloud Service Models are as follows:
 * SAAS - Software as a Service
 
 ### Infrastructure as a Service
-Offers computing capabilities on-demand over the web.
-Helps users to avoid the cost and complexity of maintainingservers.
-Resources offered include – storage facilities, networks, processing power, and virtual privateservers.
-Services are highlyscalable.
-Dynamic andflexible.
-Examples – Google Clod Computing (GCP), AWS, Microsoft Azure, Cisco Metacloud, etc. Formoreinformationvisit-InfrastructureasaService(IaaS),IBMcloudeducation
+- Offers computing capabilities on-demand over the web.
+- Helps users to avoid the cost and complexity of maintainingservers.
+- Resources offered include – storage facilities, networks, processing power, and virtual privateservers.
+- Services are highlyscalable.
+- Dynamic andflexible.
+Examples – Google Clod Computing (GCP), AWS, Microsoft Azure, Cisco Metacloud, etc.
+
+For more information visit-InfrastructureasaService(IaaS),IBMcloudeducation
 
 ### Platform as a Service
-Offers access to a based environment where users can develop, test, run and manage theirapplications.
-Supports multiple languages andframeworks.
-Users can customize the features they want in theirsubscription.
-Users access the PaaS through a graphical user interface (GUI), where development or DevOps teams can collaborate on all theirwork.
+- Offers access to a based environment where users can develop, test, run and manage theirapplications.
+- Supports multiple languages andframeworks.
+- Users can customize the features they want in theirsubscription.
+- Users access the PaaS through a graphical user interface (GUI), where development or DevOps teams can collaborate on all theirwork.
 Examples – Google App Engine, IBM cloud, AWS Elastic Beanstalk, etc
-Formoreinformationvisit-PlatformasaService(PaaS),IBMcloudeducation
+
+For more information visit-PlatformasaService(PaaS),IBMcloudeducation
 
 ### Software as a Service
-SaaS is cloud-hosted, ready-to-use applicationsoftware.
-SaaS is also known as "on-demand software".
-Users can access these applications with the help of an internet connection and web browser.
-The application and all the infrastructure required are hosted andmanagedby the SaaS vendor.
-The vendor manages all upgrades and patches to thesoftware.
-Anyone who uses a mobile phone almost certainly uses some form of SaaS like Email, social media, and cloud file storagesolutions.
+- SaaS is cloud-hosted, ready-to-use applicationsoftware.
+- SaaS is also known as "on-demand software".
+- Users can access these applications with the help of an internet connection and web browser.
+- The application and all the infrastructure required are hosted andmanagedby the SaaS vendor.
+- The vendor manages all upgrades and patches to thesoftware.
+- Anyone who uses a mobile phone almost certainly uses some form of SaaS like Email, social media, and cloud file storagesolutions.
 Examples – Google Workspace, Microsoft Office 365, Hubspot, Canva, Cisco WebEx, etc
 
 For more information visit - Software as a Service (SaaS), IBM cloud education
