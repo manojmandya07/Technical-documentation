@@ -1,7 +1,7 @@
 # How to insert table with multi-line headers in markdown
 Please see the example html code below to insert table with multi-line headers:
 
-##**Input:**
+##Input:
 ```
 <table>
   <thead>
@@ -31,7 +31,7 @@ Please see the example html code below to insert table with multi-line headers:
 ```
 
 
-##**Output**:
+##Output:
 <table>
   <thead>
     <tr>
