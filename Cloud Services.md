@@ -1,4 +1,4 @@
-'''
+```
 # Cloud services
 
 ## Overview
@@ -75,7 +75,7 @@ Cloud service is enabling on-demand services as opposed to traditional versions 
 there are other challenges cloud services must overcome. People are concerned about data security and privacy as there are no standards or regulations worldwide for this. But once, there are standards and regulations worldwide, cloud computing will revolutionize the future.
 
 
-'''
+```
 # Cloud services
 
 ## Overview
