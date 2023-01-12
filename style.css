@@ -37,7 +37,7 @@
     .card img.birthday {
       width: 60%;
       max-width: 50vw;
-      max-height: unset;
+      max-height: auto;
       border-radius: 30px;
     }
   }
