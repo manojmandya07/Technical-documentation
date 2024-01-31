@@ -1,5 +1,5 @@
 # How to insert table with multi-line headers in markdown
-Please see the example html code below to insert table with multi-line headers:
+Please use the following example html code to insert table with multi-line headers:
 
 ## Input:
 ```
