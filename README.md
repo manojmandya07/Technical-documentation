@@ -9,5 +9,5 @@ This repository consists of the sample documents created by me
 
 ## Videos samples
 
-- [Demo Video_Single Voice](SampleVideos/Demo_MultipleVoice)
-- [Demo Video_Multiple Voice](SampleVideos/Demo_SingleVoice)
+- [Demo Video_Single Voice](SampleVideos/Demo_MultipleVoice.mp4)
+- [Demo Video_Multiple Voice](SampleVideos/Demo_SingleVoice.mp4)
