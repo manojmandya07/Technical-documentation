@@ -6,6 +6,7 @@ This repository consists of the sample documents created by me.
 - [How to send a Newsletter using Google Docs and Gmail](Docs/Newsletter/Newsletter.md)
 - [Cloud Services](Docs/CloudServices/CloudServices.md)
 - [How to insert table with multi-line headers in markdown](Docs/Multiheader_table.md)
+-  [How to insert table with multi-line headers in markdown](Docs/Multiheader_table.md)
 
 ## Videos samples
 
