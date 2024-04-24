@@ -7,16 +7,3 @@ url: "https://manojmandya07.github.io/Technical-documentation-Samples/" # the ba
 # Build settings
 markdown: kramdown
 theme: minima
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - .sass-cache/
-  - .jekyll-cache/
-  - .jekyll-metadata
