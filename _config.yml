@@ -1,12 +1,12 @@
 # Site settings
 title: Sample Documentation
-description: Documentation samples created by me.
+description: Documentation samples created by me
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://yourdomain.com" # the base hostname & protocol for your site
+url: "https://manojmandya07.github.io/Technical-documentation-Samples/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs # Remote theme for Just the Docs
 
 plugins:
   - jekyll-seo-tag
@@ -17,10 +17,10 @@ plugins:
 plugins:
   - jekyll-remote-theme
   - jekyll-jtd-search
-remote_theme: pmarsceill/just-the-docs # Remote theme for Just the Docs
 
 # Table of Contents (TOC) settings
 plugins:
+  - jekyll-remote-theme
   - jekyll-jtd-toc
 
 # Exclude from processing
