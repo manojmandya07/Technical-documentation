@@ -6,16 +6,7 @@ url: "https://manojmandya07.github.io/Technical-documentation-Samples/" # the ba
 
 # Build settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs # Remote theme for Just the Docs
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
-# Table of Contents (TOC) settings
-plugins:
-  - jekyll-remote-theme
+theme: minima
 
 # Exclude from processing
 exclude:
