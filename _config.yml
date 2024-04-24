@@ -16,7 +16,6 @@ plugins:
 # Table of Contents (TOC) settings
 plugins:
   - jekyll-remote-theme
-  - jekyll-jtd-toc
 
 # Exclude from processing
 exclude:
