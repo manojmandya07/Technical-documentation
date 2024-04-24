@@ -1,9 +1,5 @@
-# Site settings
-title: Sample Documentation
-description: Documentation samples created by me
-baseurl: "https://manojmandya07.github.io/Technical-documentation-Samples/" # the subpath of your site, e.g. /blog/
-url: "https://manojmandya07.github.io/Technical-documentation-Samples/" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-theme: minima
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
