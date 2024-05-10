@@ -22,12 +22,13 @@ You must have completed the following tasks:
 
 4. Browse to choose the path for installation or enter the file path and then click **Install**.
    The installation package is downloaded first and then the installation will start. Once installation is completed successfully, the following window is displayed:
-   ![image](Images/1.webp)
+   ![image](../../Images/1.webp)
+
 You can perform the following actions on the **Installation has completed successfully!** window:
    - **Instance name**: This is by default labeled as MSSQLSERVER.
    - **Connect now**: Click this button to open a separate command line window for connection testing of what we have just 
      installed.The system will run by default ‘select @@Version’ statement to confirm that we can connect to new MSSQLSERVER instance successfully.
-     ![image](Images/2.webp)
+     ![image](../../Images/2.webp)
    - **Customize**: Click this button to open the SQL Installation center to customize further and add feature other than which are there as a part of the BASIC 
      installation.
    - **Install SSMS**: Click this button to go to Microsoft SSMS download link. 
