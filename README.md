@@ -3,7 +3,7 @@ This repository consists of the sample documents created by me.
 
 ## Documentation Samples
 
-- [How to send a Newsletter using Google Docs and Gmail](Docs/Newsletter/Newsletter.md)
+- [How to install SQL server for Windows](Docs/Newsletter/Install_SQL.md)
 - [Cloud Services](Docs/CloudServices/CloudServices.md)
 
 ## Videos samples
